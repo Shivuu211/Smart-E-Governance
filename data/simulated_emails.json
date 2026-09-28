@@ -1,0 +1,47 @@
+[
+  {
+    "id": "em_1788616255309_9pbkq",
+    "to": "ramesh@gmail.com",
+    "subject": "Namma Panchayath — Password Reset Verification Code",
+    "sentAt": "2026-09-05T13:50:55.309Z",
+    "expiresAt": "2026-09-05T13:55:55.309Z",
+    "previewText": "Your password recovery code is ready. Use the 6-digit code to proceed.",
+    "otp": "120361"
+  },
+  {
+    "id": "em_1788616255736_ke1fo",
+    "to": "ramesh@gmail.com",
+    "subject": "Namma Panchayath — Password Reset Verification Code",
+    "sentAt": "2026-09-05T13:50:55.737Z",
+    "expiresAt": "2026-09-05T13:55:55.736Z",
+    "previewText": "Your password recovery code is ready. Use the 6-digit code to proceed.",
+    "otp": "453960"
+  },
+  {
+    "id": "em_1788616265057_nianj",
+    "to": "officer@gram.gov.in",
+    "subject": "Namma Panchayath — Password Reset Verification Code",
+    "sentAt": "2026-09-05T13:51:05.057Z",
+    "expiresAt": "2026-09-05T13:56:05.057Z",
+    "previewText": "Your password recovery code is ready. Use the 6-digit code to proceed.",
+    "otp": "357490"
+  },
+  {
+    "id": "em_1789188753527_lu4m6",
+    "to": "doug@gmail.com",
+    "subject": "Namma Panchayath — Password Reset Verification Code",
+    "sentAt": "2026-09-12T04:52:33.527Z",
+    "expiresAt": "2026-09-12T04:57:33.527Z",
+    "previewText": "Your password recovery code is ready. Use the 6-digit code to proceed.",
+    "otp": "311935"
+  },
+  {
+    "id": "em_1789190164315_bz9cw",
+    "to": "shivuu211@gmail.com",
+    "subject": "Namma Panchayath — Password Reset Verification Code",
+    "sentAt": "2026-09-12T05:16:04.315Z",
+    "expiresAt": "2026-09-12T05:21:04.315Z",
+    "previewText": "Your password recovery code is ready. Use the 6-digit code to proceed.",
+    "otp": "628724"
+  }
+]

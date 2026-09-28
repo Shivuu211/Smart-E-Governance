@@ -1,0 +1,6 @@
+{
+  "name": "Namma Panchayath Management System",
+  "description": "An e-Governance platform for rural local bodies (Gram Panchayats) enabling citizens to apply for certificates, report grievances, pay taxes, view welfare schemes, and admins/officers to manage assets, officers, and generate reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

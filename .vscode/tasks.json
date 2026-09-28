@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Dev Server",
+      "type": "npm",
+      "script": "dev",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Run Migration (JSON to MongoDB)",
+      "type": "npm",
+      "script": "migrate",
+      "presentation": {
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Run E2E Verification Tests",
+      "type": "shell",
+      "command": "node scripts/verify-e2e.cjs",
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}
